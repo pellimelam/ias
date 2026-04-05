@@ -147,18 +147,18 @@
     "read": "https://www.gutenberg.org/ebooks/3207.html.images"
   },
   {
-    "title": "Dracula",
-    "author": "Stoker, Bram",
-    "subject": "Dracula, Count (Fictitious character) -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/345.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/345.html.images"
-  },
-  {
     "title": "My Life — Volume 1",
     "author": "Wagner, Richard",
     "subject": "Composers -- Germany -- Biography",
     "download": "https://www.gutenberg.org/ebooks/5197.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/5197.html.images"
+  },
+  {
+    "title": "Dracula",
+    "author": "Stoker, Bram",
+    "subject": "Dracula, Count (Fictitious character) -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/345.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/345.html.images"
   },
   {
     "title": "A Doll's House : a play",
@@ -168,25 +168,11 @@
     "read": "https://www.gutenberg.org/ebooks/2542.html.images"
   },
   {
-    "title": "The Adventures of Ferdinand Count Fathom — Complete",
-    "author": "Smollett, T. (Tobias)",
-    "subject": "Adventure stories",
-    "download": "https://www.gutenberg.org/ebooks/6761.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6761.html.images"
-  },
-  {
     "title": "Beowulf: An Anglo-Saxon Epic Poem",
     "author": "Unknown",
     "subject": "Dragons -- Poetry",
     "download": "https://www.gutenberg.org/ebooks/16328.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/16328.html.images"
-  },
-  {
-    "title": "History of Tom Jones, a Foundling",
-    "author": "Fielding, Henry",
-    "subject": "Bildungsromans",
-    "download": "https://www.gutenberg.org/ebooks/6593.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6593.html.images"
   },
   {
     "title": "Twenty years after",
@@ -210,6 +196,13 @@
     "read": "https://www.gutenberg.org/ebooks/1661.html.images"
   },
   {
+    "title": "The Adventures of Ferdinand Count Fathom — Complete",
+    "author": "Smollett, T. (Tobias)",
+    "subject": "Adventure stories",
+    "download": "https://www.gutenberg.org/ebooks/6761.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6761.html.images"
+  },
+  {
     "title": "A Tale of Two Cities",
     "author": "Dickens, Charles",
     "subject": "British -- France -- Paris -- Fiction",
@@ -229,6 +222,13 @@
     "subject": "Epistolary fiction",
     "download": "https://www.gutenberg.org/ebooks/2160.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/2160.html.images"
+  },
+  {
+    "title": "History of Tom Jones, a Foundling",
+    "author": "Fielding, Henry",
+    "subject": "Bildungsromans",
+    "download": "https://www.gutenberg.org/ebooks/6593.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6593.html.images"
   },
   {
     "title": "Chambers's Twentieth Century Dictionary (part 1 of 4: A-D)",
@@ -280,13 +280,6 @@
     "read": "https://www.gutenberg.org/ebooks/1400.html.images"
   },
   {
-    "title": "韓詩外傳, Complete",
-    "author": "Han, Ying, active 150 B.C.",
-    "subject": "Shi jing",
-    "download": "https://www.gutenberg.org/ebooks/7290.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7290.html.images"
-  },
-  {
     "title": "Spoon River Anthology",
     "author": "Masters, Edgar Lee",
     "subject": "American poetry",
@@ -322,13 +315,6 @@
     "read": "https://www.gutenberg.org/ebooks/2680.html.images"
   },
   {
-    "title": "Grimms' Fairy Tales",
-    "author": "Grimm, Jacob",
-    "subject": "Fairy tales -- Germany",
-    "download": "https://www.gutenberg.org/ebooks/2591.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/2591.html.images"
-  },
-  {
     "title": "Metamorphosis",
     "author": "Kafka, Franz",
     "subject": "Metamorphosis -- Fiction",
@@ -336,18 +322,18 @@
     "read": "https://www.gutenberg.org/ebooks/5200.html.images"
   },
   {
+    "title": "Grimms' Fairy Tales",
+    "author": "Grimm, Jacob",
+    "subject": "Fairy tales -- Germany",
+    "download": "https://www.gutenberg.org/ebooks/2591.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/2591.html.images"
+  },
+  {
     "title": "Ulysses",
     "author": "Joyce, James",
     "subject": "Alienation (Social psychology) -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/4300.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/4300.html.images"
-  },
-  {
-    "title": "Embers, Complete",
-    "author": "Parker, Gilbert",
-    "subject": "Canadian poetry",
-    "download": "https://www.gutenberg.org/ebooks/6271.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6271.html.images"
   },
   {
     "title": "War and Peace",
@@ -434,13 +420,6 @@
     "read": "https://www.gutenberg.org/ebooks/36034.html.images"
   },
   {
-    "title": "Second Treatise of Government",
-    "author": "Locke, John",
-    "subject": "Liberty -- Early works to 1800",
-    "download": "https://www.gutenberg.org/ebooks/7370.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7370.html.images"
-  },
-  {
     "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
     "author": "Homer",
     "subject": "Epic poetry, Greek -- Translations into English",
@@ -523,6 +502,13 @@
     "subject": "Magic",
     "download": "https://www.gutenberg.org/ebooks/72679.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/72679.html.images"
+  },
+  {
+    "title": "Second Treatise of Government",
+    "author": "Locke, John",
+    "subject": "Liberty -- Early works to 1800",
+    "download": "https://www.gutenberg.org/ebooks/7370.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7370.html.images"
   },
   {
     "title": "Prolegomena to the study of Greek religion",
@@ -749,13 +735,6 @@
     "read": "https://www.gutenberg.org/ebooks/35.html.images"
   },
   {
-    "title": "The Iliad",
-    "author": "Homer",
-    "subject": "Achilles (Mythological character) -- Poetry",
-    "download": "https://www.gutenberg.org/ebooks/6130.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6130.html.images"
-  },
-  {
     "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
     "author": "Smith, Adam",
     "subject": "Economics",
@@ -924,6 +903,13 @@
     "read": "https://www.gutenberg.org/ebooks/25229.html.images"
   },
   {
+    "title": "The Lives of the Twelve Caesars, Complete",
+    "author": "Suetonius",
+    "subject": "Emperors -- Rome -- Biography -- Early works to 1800",
+    "download": "https://www.gutenberg.org/ebooks/6400.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6400.html.images"
+  },
+  {
     "title": "Life on the Mississippi",
     "author": "Twain, Mark",
     "subject": "Authors, American -- 19th century -- Biography",
@@ -1027,6 +1013,20 @@
     "subject": "Detective and mystery stories",
     "download": "https://www.gutenberg.org/ebooks/2097.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/2097.html.images"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "subject": "Achilles (Mythological character) -- Poetry",
+    "download": "https://www.gutenberg.org/ebooks/6130.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6130.html.images"
+  },
+  {
+    "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+    "author": "Leblanc, Maurice",
+    "subject": "Adventure stories, French -- Translations into English",
+    "download": "https://www.gutenberg.org/ebooks/6133.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6133.html.images"
   },
   {
     "title": "The Secret of Chimneys",
@@ -1211,6 +1211,13 @@
     "read": "https://www.gutenberg.org/ebooks/3600.html.images"
   },
   {
+    "title": "The History of the Peloponnesian War",
+    "author": "Thucydides",
+    "subject": "Greece -- History -- Peloponnesian War, 431-404 B.C.",
+    "download": "https://www.gutenberg.org/ebooks/7142.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7142.html.images"
+  },
+  {
     "title": "A Midsummer Night's Dream",
     "author": "Shakespeare, William",
     "subject": "Athens (Greece) -- Drama",
@@ -1223,13 +1230,6 @@
     "subject": "Grief",
     "download": "https://www.gutenberg.org/ebooks/921.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/921.html.images"
-  },
-  {
-    "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
-    "author": "Leblanc, Maurice",
-    "subject": "Adventure stories, French -- Translations into English",
-    "download": "https://www.gutenberg.org/ebooks/6133.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6133.html.images"
   },
   {
     "title": "The Memoirs of Sherlock Holmes",
@@ -1288,20 +1288,6 @@
     "read": "https://www.gutenberg.org/ebooks/2868.html.images"
   },
   {
-    "title": "Tractatus Logico-Philosophicus",
-    "author": "Wittgenstein, Ludwig",
-    "subject": "Language and languages -- Philosophy",
-    "download": null,
-    "read": null
-  },
-  {
-    "title": "The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou;: Being the Account of a Voyage to the Region North of Aylemer Lake",
-    "author": "Seton, Ernest Thompson",
-    "subject": "Alberta -- Description and travel",
-    "download": "https://www.gutenberg.org/ebooks/6818.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6818.html.images"
-  },
-  {
     "title": "David Copperfield",
     "author": "Dickens, Charles",
     "subject": "Autobiographical fiction",
@@ -1314,13 +1300,6 @@
     "subject": "Classical literature",
     "download": "https://www.gutenberg.org/ebooks/1600.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/1600.html.images"
-  },
-  {
-    "title": "The Problems of Philosophy",
-    "author": "Russell, Bertrand",
-    "subject": "Knowledge, Theory of",
-    "download": "https://www.gutenberg.org/ebooks/5827.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5827.html.images"
   },
   {
     "title": "The Secret Garden",
@@ -1351,13 +1330,6 @@
     "read": "https://www.gutenberg.org/ebooks/72.html.images"
   },
   {
-    "title": "The History of the Peloponnesian War",
-    "author": "Thucydides",
-    "subject": "Greece -- History -- Peloponnesian War, 431-404 B.C.",
-    "download": "https://www.gutenberg.org/ebooks/7142.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7142.html.images"
-  },
-  {
     "title": "Florante at Laura",
     "author": "Balagtas, Francisco",
     "subject": "Tagalog poetry",
@@ -1384,6 +1356,27 @@
     "subject": "New York (N.Y.) -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/51912.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/51912.html.images"
+  },
+  {
+    "title": "Tractatus Logico-Philosophicus",
+    "author": "Wittgenstein, Ludwig",
+    "subject": "Language and languages -- Philosophy",
+    "download": null,
+    "read": null
+  },
+  {
+    "title": "The Invisible Man: A Grotesque Romance",
+    "author": "Wells, H. G. (Herbert George)",
+    "subject": "Mentally ill -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5230.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5230.html.images"
+  },
+  {
+    "title": "The Problems of Philosophy",
+    "author": "Russell, Bertrand",
+    "subject": "Knowledge, Theory of",
+    "download": "https://www.gutenberg.org/ebooks/5827.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5827.html.images"
   },
   {
     "title": "The Ballad of the White Horse",
@@ -1419,6 +1412,13 @@
     "subject": "Adultery -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/160.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/160.html.images"
+  },
+  {
+    "title": "Biographia Literaria",
+    "author": "Coleridge, Samuel Taylor",
+    "subject": "Aesthetics",
+    "download": "https://www.gutenberg.org/ebooks/6081.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6081.html.images"
   },
   {
     "title": "Faust [part 1]. Translated Into English in the Original Metres",
@@ -1468,6 +1468,13 @@
     "subject": "Soldiers -- Great Britain -- Biography",
     "download": "https://www.gutenberg.org/ebooks/75883.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/75883.html.images"
+  },
+  {
+    "title": "The Yeoman Adventurer",
+    "author": "Gough, George W.",
+    "subject": "Adventure stories",
+    "download": "https://www.gutenberg.org/ebooks/7326.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7326.html.images"
   },
   {
     "title": "Northanger Abbey",
@@ -1631,13 +1638,6 @@
     "read": "https://www.gutenberg.org/ebooks/62215.html.images"
   },
   {
-    "title": "The Lives of the Twelve Caesars, Complete",
-    "author": "Suetonius",
-    "subject": "Emperors -- Rome -- Biography -- Early works to 1800",
-    "download": "https://www.gutenberg.org/ebooks/6400.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6400.html.images"
-  },
-  {
     "title": "The Spy",
     "author": "Cooper, James Fenimore",
     "subject": "Domestic fiction",
@@ -1729,13 +1729,6 @@
     "read": "https://www.gutenberg.org/ebooks/3090.html.images"
   },
   {
-    "title": "Childe Harold's Pilgrimage",
-    "author": "Byron, George Gordon Byron, Baron",
-    "subject": "English poetry",
-    "download": "https://www.gutenberg.org/ebooks/5131.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5131.html.images"
-  },
-  {
     "title": "狄公案",
     "author": "Anonymous",
     "subject": "Di, Renjie, 629-700 -- Fiction",
@@ -1776,6 +1769,13 @@
     "subject": "African Americans -- History -- 1877-1964",
     "download": "https://www.gutenberg.org/ebooks/14977.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/14977.html.images"
+  },
+  {
+    "title": "Complete Short Works of George Meredith",
+    "author": "Meredith, George",
+    "subject": "English fiction -- 19th century",
+    "download": "https://www.gutenberg.org/ebooks/4499.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4499.html.images"
   },
   {
     "title": "Anabasis",
@@ -1932,6 +1932,13 @@
     "read": "https://www.gutenberg.org/files/28811/28811_index.html"
   },
   {
+    "title": "Childe Harold's Pilgrimage",
+    "author": "Byron, George Gordon Byron, Baron",
+    "subject": "English poetry",
+    "download": "https://www.gutenberg.org/ebooks/5131.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5131.html.images"
+  },
+  {
     "title": "Myths and Legends of Ancient Greece and Rome",
     "author": "Berens, E. M.",
     "subject": "Mythology, Classical",
@@ -1974,11 +1981,11 @@
     "read": "https://www.gutenberg.org/ebooks/2488.html.images"
   },
   {
-    "title": "The Amazing Marriage — Complete",
-    "author": "Meredith, George",
-    "subject": "English fiction -- 19th century",
-    "download": "https://www.gutenberg.org/ebooks/4488.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4488.html.images"
+    "title": "Ethan Frome",
+    "author": "Wharton, Edith",
+    "subject": "Accident victims -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/4517.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4517.html.images"
   },
   {
     "title": "The Book of the Thousand Nights and a Night — Volume 01 (of 10)",
@@ -2485,13 +2492,6 @@
     "read": "https://www.gutenberg.org/ebooks/3176.html.images"
   },
   {
-    "title": "The Yeoman Adventurer",
-    "author": "Gough, George W.",
-    "subject": "Adventure stories",
-    "download": "https://www.gutenberg.org/ebooks/7326.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7326.html.images"
-  },
-  {
     "title": "孽海花",
     "author": "Zeng, Pu",
     "subject": "Saijinhua, 1874-1936 -- Fiction",
@@ -2527,11 +2527,11 @@
     "read": "https://www.gutenberg.org/ebooks/22541.html.images"
   },
   {
-    "title": "Ethan Frome",
-    "author": "Wharton, Edith",
-    "subject": "Accident victims -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/4517.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4517.html.images"
+    "title": "A Romance of Billy-Goat Hill",
+    "author": "Rice, Alice Caldwell Hegan",
+    "subject": "Kentucky -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/6635.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6635.html.images"
   },
   {
     "title": "The History of Herodotus — Volume 1",
@@ -2562,13 +2562,6 @@
     "read": "https://www.gutenberg.org/ebooks/1974.html.images"
   },
   {
-    "title": "Biographia Literaria",
-    "author": "Coleridge, Samuel Taylor",
-    "subject": "Aesthetics",
-    "download": "https://www.gutenberg.org/ebooks/6081.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6081.html.images"
-  },
-  {
     "title": "Dracula",
     "author": "Stoker, Bram",
     "subject": "Dracula, Count (Fictitious character) -- Fiction",
@@ -2588,13 +2581,6 @@
     "subject": "Mexico -- Description and travel",
     "download": null,
     "read": "https://www.gutenberg.org/files/28761/28761_index.html"
-  },
-  {
-    "title": "The History of Don Quixote, Volume 1, Complete",
-    "author": "Cervantes Saavedra, Miguel de",
-    "subject": "Knights and knighthood -- Spain -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/5921.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5921.html.images"
   },
   {
     "title": "Manon Lescaut",
@@ -2667,6 +2653,13 @@
     "read": "https://www.gutenberg.org/ebooks/21839.html.images"
   },
   {
+    "title": "The Notebooks of Leonardo Da Vinci — Complete",
+    "author": "Leonardo, da Vinci",
+    "subject": "Leonardo, da Vinci, 1452-1519 -- Notebooks, sketchbooks, etc.",
+    "download": "https://www.gutenberg.org/ebooks/5000.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5000.html.images"
+  },
+  {
     "title": "The Riddle of the Sands",
     "author": "Childers, Erskine",
     "subject": "Adventure stories",
@@ -2693,6 +2686,13 @@
     "subject": "English language -- 19th century -- Synonyms and antonyms",
     "download": "https://www.gutenberg.org/ebooks/51155.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/51155.html.images"
+  },
+  {
+    "title": "The Landloper: The Romance of a Man on Foot",
+    "author": "Day, Holman",
+    "subject": "Political corruption -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/4712.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4712.html.images"
   },
   {
     "title": "The Last of the Mohicans; A narrative of 1757",
@@ -2786,13 +2786,6 @@
     "read": "https://www.gutenberg.org/ebooks/40284.html.images"
   },
   {
-    "title": "Swann's Way",
-    "author": "Proust, Marcel",
-    "subject": "Autobiographical fiction",
-    "download": "https://www.gutenberg.org/ebooks/7178.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7178.html.images"
-  },
-  {
     "title": "The Samurai Strategy",
     "author": "Hoover, Thomas",
     "subject": "Mystery fiction",
@@ -2861,13 +2854,6 @@
     "subject": "Copyists -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/11231.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/11231.html.images"
-  },
-  {
-    "title": "Fables of La Fontaine — a New Edition, with Notes",
-    "author": "La Fontaine, Jean de",
-    "subject": "Fables, French -- Translations into English",
-    "download": "https://www.gutenberg.org/ebooks/7241.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7241.html.images"
   },
   {
     "title": "Siddhartha",
@@ -2952,13 +2938,6 @@
     "subject": "England -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/10554.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/10554.html.images"
-  },
-  {
-    "title": "Complete Short Works of George Meredith",
-    "author": "Meredith, George",
-    "subject": "English fiction -- 19th century",
-    "download": "https://www.gutenberg.org/ebooks/4499.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4499.html.images"
   },
   {
     "title": "Jane Eyre",
@@ -3094,13 +3073,6 @@
     "read": "https://www.gutenberg.org/ebooks/8710.html.images"
   },
   {
-    "title": "The Vampyre; a Tale",
-    "author": "Polidori, John William",
-    "subject": "Gothic fiction",
-    "download": "https://www.gutenberg.org/ebooks/6087.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6087.html.images"
-  },
-  {
     "title": "Under the Red Dragon: A Novel",
     "author": "Grant, James",
     "subject": "Crimean War, 1853-1856 -- Fiction",
@@ -3113,6 +3085,13 @@
     "subject": "Russian fiction -- Translations into English",
     "download": "https://www.gutenberg.org/ebooks/56456.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/56456.html.images"
+  },
+  {
+    "title": "The Amazing Marriage — Complete",
+    "author": "Meredith, George",
+    "subject": "English fiction -- 19th century",
+    "download": "https://www.gutenberg.org/ebooks/4488.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4488.html.images"
   },
   {
     "title": "Night and Day",
@@ -3192,6 +3171,13 @@
     "read": "https://www.gutenberg.org/ebooks/58031.html.images"
   },
   {
+    "title": "As a man thinketh",
+    "author": "Allen, James",
+    "subject": "Conduct of life",
+    "download": "https://www.gutenberg.org/ebooks/4507.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4507.html.images"
+  },
+  {
     "title": "Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude",
     "author": "Bidwell, Austin",
     "subject": "Bank fraud -- England",
@@ -3260,6 +3246,13 @@
     "subject": "Ghost stories, English",
     "download": "https://www.gutenberg.org/ebooks/8486.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/8486.html.images"
+  },
+  {
+    "title": "The History of Don Quixote, Volume 1, Complete",
+    "author": "Cervantes Saavedra, Miguel de",
+    "subject": "Knights and knighthood -- Spain -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5921.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5921.html.images"
   },
   {
     "title": "The Burgess Animal Book for Children",
@@ -3521,13 +3514,6 @@
     "read": "https://www.gutenberg.org/ebooks/3177.html.images"
   },
   {
-    "title": "The Social Cancer: A Complete English Version of Noli Me Tangere",
-    "author": "Rizal, José",
-    "subject": "Historical fiction",
-    "download": "https://www.gutenberg.org/ebooks/6737.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6737.html.images"
-  },
-  {
     "title": "Two happy years in Ceylon",
     "author": "Gordon Cumming, C. F. (Constance Frederica)",
     "subject": "Sri Lanka -- Description and travel",
@@ -3626,6 +3612,13 @@
     "read": "https://www.gutenberg.org/ebooks/2806.html.images"
   },
   {
+    "title": "The Gift of the Magi",
+    "author": "Henry, O.",
+    "subject": "Christmas stories",
+    "download": "https://www.gutenberg.org/ebooks/7256.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7256.html.images"
+  },
+  {
     "title": "Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana",
     "author": "Northup, Solomon",
     "subject": "African Americans -- Biography",
@@ -3654,18 +3647,18 @@
     "read": "https://www.gutenberg.org/ebooks/19322.html.images"
   },
   {
-    "title": "A Romance of Billy-Goat Hill",
-    "author": "Rice, Alice Caldwell Hegan",
-    "subject": "Kentucky -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/6635.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6635.html.images"
-  },
-  {
     "title": "The Confessions of Jean Jacques Rousseau — Complete",
     "author": "Rousseau, Jean-Jacques",
     "subject": "Authors, French -- 18th century -- Biography",
     "download": "https://www.gutenberg.org/ebooks/3913.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/3913.html.images"
+  },
+  {
+    "title": "The Man Upstairs and Other Stories",
+    "author": "Wodehouse, P. G. (Pelham Grenville)",
+    "subject": "Humorous stories, English",
+    "download": "https://www.gutenberg.org/ebooks/6768.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6768.html.images"
   },
   {
     "title": "Life Blood",
@@ -3694,6 +3687,13 @@
     "subject": "France -- History -- Louis XVI, 1774-1793",
     "download": "https://www.gutenberg.org/ebooks/1301.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/1301.html.images"
+  },
+  {
+    "title": "A Treatise of Human Nature",
+    "author": "Hume, David",
+    "subject": "Knowledge, Theory of",
+    "download": "https://www.gutenberg.org/ebooks/4705.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4705.html.images"
   },
   {
     "title": "Lone Star Planet",
@@ -3752,18 +3752,18 @@
     "read": "https://www.gutenberg.org/ebooks/621.html.images"
   },
   {
-    "title": "The Gift of the Magi",
-    "author": "Henry, O.",
-    "subject": "Christmas stories",
-    "download": "https://www.gutenberg.org/ebooks/7256.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7256.html.images"
-  },
-  {
     "title": "That Girl Montana",
     "author": "Ryan, Marah Ellis",
     "subject": "Montana -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/27475.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/27475.html.images"
+  },
+  {
+    "title": "Lineage, Life and Labors of José Rizal, Philippine Patriot",
+    "author": "Craig, Austin",
+    "subject": "Rizal, José, 1861-1896",
+    "download": "https://www.gutenberg.org/ebooks/6867.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6867.html.images"
   },
   {
     "title": "The Burgess Bird Book for Children",
@@ -3815,13 +3815,6 @@
     "read": "https://www.gutenberg.org/ebooks/49987.html.images"
   },
   {
-    "title": "Old Spookses' Pass, Malcolm's Katie, and other poems",
-    "author": "Crawford, Isabella Valancy",
-    "subject": "Canadian poetry",
-    "download": "https://www.gutenberg.org/ebooks/6815.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6815.html.images"
-  },
-  {
     "title": "Buccaneers and Pirates of Our Coasts",
     "author": "Stockton, Frank R.",
     "subject": "Buccaneers -- Juvenile literature",
@@ -3834,13 +3827,6 @@
     "subject": "Encyclopedias and dictionaries",
     "download": "https://www.gutenberg.org/ebooks/19846.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/19846.html.images"
-  },
-  {
-    "title": "The Invisible Man: A Grotesque Romance",
-    "author": "Wells, H. G. (Herbert George)",
-    "subject": "Mentally ill -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/5230.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5230.html.images"
   },
   {
     "title": "The Germany and the Agricola of Tacitus",
@@ -3976,13 +3962,6 @@
     "read": "https://www.gutenberg.org/ebooks/31472.html.images"
   },
   {
-    "title": "As a man thinketh",
-    "author": "Allen, James",
-    "subject": "Conduct of life",
-    "download": "https://www.gutenberg.org/ebooks/4507.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4507.html.images"
-  },
-  {
     "title": "Songs of Innocence and of Experience",
     "author": "Blake, William",
     "subject": "English poetry -- 18th century",
@@ -4016,6 +3995,13 @@
     "subject": "French fiction -- 19th century",
     "download": "https://www.gutenberg.org/ebooks/19919.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/19919.html.images"
+  },
+  {
+    "title": "The Social Cancer: A Complete English Version of Noli Me Tangere",
+    "author": "Rizal, José",
+    "subject": "Historical fiction",
+    "download": "https://www.gutenberg.org/ebooks/6737.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6737.html.images"
   },
   {
     "title": "Moods",
@@ -4109,6 +4095,13 @@
     "read": "https://www.gutenberg.org/ebooks/8300.html.images"
   },
   {
+    "title": "The Vampyre; a Tale",
+    "author": "Polidori, John William",
+    "subject": "Gothic fiction",
+    "download": "https://www.gutenberg.org/ebooks/6087.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6087.html.images"
+  },
+  {
     "title": "The Countess of Pembroke's Arcadia",
     "author": "Sidney, Philip",
     "subject": "Pastoral literature, English",
@@ -4170,6 +4163,13 @@
     "subject": "Lady's maids -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/3044.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/3044.html.images"
+  },
+  {
+    "title": "Famous Affinities of History: The Romance of Devotion. Vol 1-4, Complete",
+    "author": "Orr, Lyndon",
+    "subject": "Biography",
+    "download": "https://www.gutenberg.org/ebooks/4693.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4693.html.images"
   },
   {
     "title": "The Car of Destiny",
@@ -4445,13 +4445,6 @@
     "read": "https://www.gutenberg.org/ebooks/47530.html.images"
   },
   {
-    "title": "The Landloper: The Romance of a Man on Foot",
-    "author": "Day, Holman",
-    "subject": "Political corruption -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/4712.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4712.html.images"
-  },
-  {
     "title": "The Influence of Sea Power Upon History, 1660-1783",
     "author": "Mahan, A. T. (Alfred Thayer)",
     "subject": "Naval history, Modern",
@@ -4513,13 +4506,6 @@
     "subject": "Great Britain -- History -- 19th century -- Juvenile fiction",
     "download": null,
     "read": "https://www.gutenberg.org/files/19637/19637-index.html"
-  },
-  {
-    "title": "The Notebooks of Leonardo Da Vinci — Complete",
-    "author": "Leonardo, da Vinci",
-    "subject": "Leonardo, da Vinci, 1452-1519 -- Notebooks, sketchbooks, etc.",
-    "download": "https://www.gutenberg.org/ebooks/5000.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5000.html.images"
   },
   {
     "title": "The Thousand and One Nights, Vol. I.: Commonly Called the Arabian Nights' Entertainments",
@@ -4592,13 +4578,6 @@
     "read": "https://www.gutenberg.org/ebooks/25162.html.images"
   },
   {
-    "title": "A Heart-Song of To-day (Disturbed by Fire from the 'Unruly Member'): A Novel",
-    "author": "Savigny, Annie G. (Annie Gregg)",
-    "subject": "Canadian fiction",
-    "download": "https://www.gutenberg.org/ebooks/7184.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7184.html.images"
-  },
-  {
     "title": "Boswell's Life of Johnson: Abridged and edited, with an introduction by Charles Grosvenor Osgood",
     "author": "Boswell, James",
     "subject": "Authors, English -- 18th century -- Biography",
@@ -4606,11 +4585,25 @@
     "read": "https://www.gutenberg.org/ebooks/1564.html.images"
   },
   {
+    "title": "Embers, Complete",
+    "author": "Parker, Gilbert",
+    "subject": "Canadian poetry",
+    "download": "https://www.gutenberg.org/ebooks/6271.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6271.html.images"
+  },
+  {
     "title": "The Torrents of Spring",
     "author": "Turgenev, Ivan Sergeevich",
     "subject": "First loves -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/9911.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/9911.html.images"
+  },
+  {
+    "title": "A Heart-Song of To-day (Disturbed by Fire from the 'Unruly Member'): A Novel",
+    "author": "Savigny, Annie G. (Annie Gregg)",
+    "subject": "Canadian fiction",
+    "download": "https://www.gutenberg.org/ebooks/7184.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7184.html.images"
   },
   {
     "title": "Alice's Adventures in Wonderland",
@@ -4767,6 +4760,13 @@
     "read": "https://www.gutenberg.org/ebooks/24032.html.images"
   },
   {
+    "title": "The Letters of Wolfgang Amadeus Mozart — Volume 01",
+    "author": "Mozart, Wolfgang Amadeus",
+    "subject": "Composers -- Austria -- Correspondence",
+    "download": "https://www.gutenberg.org/ebooks/5307.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5307.html.images"
+  },
+  {
     "title": "The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata): Being a discourse between Arjuna, Prince of India, and the Supreme Being under the form of Krishna",
     "author": "Unknown",
     "subject": "Epic poetry",
@@ -4872,13 +4872,6 @@
     "read": "https://www.gutenberg.org/ebooks/14062.html.images"
   },
   {
-    "title": "A Treatise of Human Nature",
-    "author": "Hume, David",
-    "subject": "Knowledge, Theory of",
-    "download": "https://www.gutenberg.org/ebooks/4705.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4705.html.images"
-  },
-  {
     "title": "The San Rosario Ranch",
     "author": "Elliott, Maud Howe",
     "subject": "California -- Fiction",
@@ -4905,13 +4898,6 @@
     "subject": "Businessmen -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/3178.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/3178.html.images"
-  },
-  {
-    "title": "The Man Upstairs and Other Stories",
-    "author": "Wodehouse, P. G. (Pelham Grenville)",
-    "subject": "Humorous stories, English",
-    "download": "https://www.gutenberg.org/ebooks/6768.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6768.html.images"
   },
   {
     "title": "Just so stories",
@@ -5138,6 +5124,13 @@
     "read": "https://www.gutenberg.org/ebooks/23599.html.images"
   },
   {
+    "title": "Swann's Way",
+    "author": "Proust, Marcel",
+    "subject": "Autobiographical fiction",
+    "download": "https://www.gutenberg.org/ebooks/7178.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7178.html.images"
+  },
+  {
     "title": "The Adventures of Pinocchio",
     "author": "Collodi, Carlo",
     "subject": "Fairy tales",
@@ -5180,13 +5173,6 @@
     "read": "https://www.gutenberg.org/ebooks/48893.html.images"
   },
   {
-    "title": "Famous Affinities of History: The Romance of Devotion. Vol 1-4, Complete",
-    "author": "Orr, Lyndon",
-    "subject": "Biography",
-    "download": "https://www.gutenberg.org/ebooks/4693.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4693.html.images"
-  },
-  {
     "title": "Chambers's Edinburgh Journal, No. 452: Volume 18, New Series, August 28, 1852",
     "author": "Various",
     "subject": "Periodicals",
@@ -5206,6 +5192,13 @@
     "subject": "Boston (Mass.) -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/57669.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/57669.html.images"
+  },
+  {
+    "title": "Fundamental Principles of the Metaphysic of Morals",
+    "author": "Kant, Immanuel",
+    "subject": "Ethics",
+    "download": "https://www.gutenberg.org/ebooks/5682.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5682.html.images"
   },
   {
     "title": "The Emerald City of Oz",
@@ -5262,6 +5255,13 @@
     "subject": "Canada -- History -- 1914-1945 -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/51.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/51.html.images"
+  },
+  {
+    "title": "The Satyricon — Volume 05: Crotona Affairs",
+    "author": "Petronius Arbiter",
+    "subject": "Rome -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5222.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5222.html.images"
   },
   {
     "title": "The slang dictionary : $b Etymological, historical and anecdotal",
@@ -5544,6 +5544,13 @@
     "read": "https://www.gutenberg.org/ebooks/55317.html.images"
   },
   {
+    "title": "Emile",
+    "author": "Rousseau, Jean-Jacques",
+    "subject": "Education -- Early works to 1800",
+    "download": "https://www.gutenberg.org/ebooks/5427.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5427.html.images"
+  },
+  {
     "title": "The Middle Temple Murder",
     "author": "Fletcher, J. S. (Joseph Smith)",
     "subject": "Detective and mystery stories",
@@ -5621,6 +5628,13 @@
     "read": "https://www.gutenberg.org/ebooks/65236.html.images"
   },
   {
+    "title": "Voyage au Centre de la Terre",
+    "author": "Verne, Jules",
+    "subject": "Adventure stories",
+    "download": "https://www.gutenberg.org/ebooks/4791.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4791.html.images"
+  },
+  {
     "title": "The warlord of Mars",
     "author": "Burroughs, Edgar Rice",
     "subject": "Carter, John (Fictitious character) -- Fiction",
@@ -5640,13 +5654,6 @@
     "subject": "Spanish language -- Textbooks for foreign speakers -- English",
     "download": "https://www.gutenberg.org/ebooks/16059.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/16059.html.images"
-  },
-  {
-    "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
-    "author": "James, William",
-    "subject": "Pragmatism",
-    "download": "https://www.gutenberg.org/ebooks/5116.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5116.html.images"
   },
   {
     "title": "Aesop's Fables - Volume 02",
@@ -5684,18 +5691,18 @@
     "read": "https://www.gutenberg.org/ebooks/44028.html.images"
   },
   {
+    "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
+    "author": "James, William",
+    "subject": "Pragmatism",
+    "download": "https://www.gutenberg.org/ebooks/5116.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5116.html.images"
+  },
+  {
     "title": "The Essays of Arthur Schopenhauer: the Wisdom of Life",
     "author": "Schopenhauer, Arthur",
     "subject": "Conduct of life",
     "download": "https://www.gutenberg.org/ebooks/10741.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/10741.html.images"
-  },
-  {
-    "title": "Fundamental Principles of the Metaphysic of Morals",
-    "author": "Kant, Immanuel",
-    "subject": "Ethics",
-    "download": "https://www.gutenberg.org/ebooks/5682.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5682.html.images"
   },
   {
     "title": "Encyclopaedia Britannica, 11th Edition, \"Lord Chamberlain\" to \"Luqman\": Volume 17, Slice 1",
@@ -5922,13 +5929,6 @@
     "read": "https://www.gutenberg.org/ebooks/24518.html.images"
   },
   {
-    "title": "Lineage, Life and Labors of José Rizal, Philippine Patriot",
-    "author": "Craig, Austin",
-    "subject": "Rizal, José, 1861-1896",
-    "download": "https://www.gutenberg.org/ebooks/6867.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6867.html.images"
-  },
-  {
     "title": "The Man with Two Left Feet, and Other Stories",
     "author": "Wodehouse, P. G. (Pelham Grenville)",
     "subject": "Humorous stories, English",
@@ -6013,11 +6013,25 @@
     "read": "https://www.gutenberg.org/ebooks/2811.html.images"
   },
   {
+    "title": "Vingt mille Lieues Sous Les Mers — Complete",
+    "author": "Verne, Jules",
+    "subject": "Adventure stories",
+    "download": "https://www.gutenberg.org/ebooks/5097.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5097.html.images"
+  },
+  {
     "title": "Leaves of Grass",
     "author": "Whitman, Walt",
     "subject": "Poetry",
     "download": null,
     "read": "https://www.gutenberg.org/files/23979/23979-index.html"
+  },
+  {
+    "title": "Considerations on Representative Government",
+    "author": "Mill, John Stuart",
+    "subject": "Representative government and representation",
+    "download": "https://www.gutenberg.org/ebooks/5669.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5669.html.images"
   },
   {
     "title": "O Pioneers!",
@@ -6081,6 +6095,13 @@
     "subject": "Faust, -approximately 1540 -- Drama",
     "download": "https://www.gutenberg.org/ebooks/2229.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/2229.html.images"
+  },
+  {
+    "title": "The Satyricon — Complete",
+    "author": "Petronius Arbiter",
+    "subject": "Rome -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5225.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5225.html.images"
   },
   {
     "title": "A Concise Anglo-Saxon Dictionary: For the Use of Students",
@@ -6181,13 +6202,6 @@
     "read": "https://www.gutenberg.org/files/26265/26265-index.html"
   },
   {
-    "title": "The Satyricon — Complete",
-    "author": "Petronius Arbiter",
-    "subject": "Rome -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/5225.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5225.html.images"
-  },
-  {
     "title": "Motion pictures, 1950-1959 : Catalog of copyright entries",
     "author": "Library of Congress. Copyright Office",
     "subject": "Motion pictures -- Catalogs",
@@ -6284,13 +6298,6 @@
     "subject": "Eccentrics and eccentricities -- England",
     "download": "https://www.gutenberg.org/ebooks/50439.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/50439.html.images"
-  },
-  {
-    "title": "Politics: A Treatise on Government",
-    "author": "Aristotle",
-    "subject": "Political science -- Early works to 1800",
-    "download": "https://www.gutenberg.org/ebooks/6762.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6762.html.images"
   },
   {
     "title": "History of the Decline and Fall of the Roman Empire — Volume 1",
@@ -6678,6 +6685,20 @@
     "read": "https://www.gutenberg.org/ebooks/2009.html.images"
   },
   {
+    "title": "Politics: A Treatise on Government",
+    "author": "Aristotle",
+    "subject": "Political science -- Early works to 1800",
+    "download": "https://www.gutenberg.org/ebooks/6762.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6762.html.images"
+  },
+  {
+    "title": "The Battle of the Strong: A Romance of Two Kingdoms — Volume 6",
+    "author": "Parker, Gilbert",
+    "subject": "Anglo-French War, 1793-1802 -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/6235.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6235.html.images"
+  },
+  {
     "title": "Women in the fine arts, from the Seventh Century B.C. to the Twentieth Century A.D.",
     "author": "Waters, Clara Erskine Clement",
     "subject": "Women artists -- Biography",
@@ -6760,13 +6781,6 @@
     "subject": "Feminism",
     "download": "https://www.gutenberg.org/ebooks/3420.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/3420.html.images"
-  },
-  {
-    "title": "Kalevala : the Epic Poem of Finland — Complete",
-    "author": "Unknown",
-    "subject": "Finnish poetry -- Translations into English",
-    "download": "https://www.gutenberg.org/ebooks/5186.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5186.html.images"
   },
   {
     "title": "Herman Melville, Mariner and Mystic",
@@ -6893,6 +6907,13 @@
     "subject": "Canada -- History -- 1914-1945 -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/47.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/47.html.images"
+  },
+  {
+    "title": "The Mill on the Floss",
+    "author": "Eliot, George",
+    "subject": "Conflict of generations -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/6688.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6688.html.images"
   },
   {
     "title": "Aesop's Fables - Volume 11",
@@ -7133,6 +7154,13 @@
     "read": "https://www.gutenberg.org/files/19575/19575-index.html"
   },
   {
+    "title": "Lord Jim",
+    "author": "Conrad, Joseph",
+    "subject": "Atonement -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5658.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5658.html.images"
+  },
+  {
     "title": "The Sun Also Rises",
     "author": "Hemingway, Ernest",
     "subject": "Americans -- France -- Fiction",
@@ -7308,13 +7336,6 @@
     "read": "https://www.gutenberg.org/files/22951/22951-index.html"
   },
   {
-    "title": "The Green Fairy Book",
-    "author": "Unknown",
-    "subject": "Fairy tales",
-    "download": "https://www.gutenberg.org/ebooks/7277.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7277.html.images"
-  },
-  {
     "title": "The book of Enoch",
     "author": "Unknown",
     "subject": "Apocryphal books (Old Testament)",
@@ -7420,6 +7441,13 @@
     "read": "https://www.gutenberg.org/ebooks/50508.html.images"
   },
   {
+    "title": "The Critique of Practical Reason",
+    "author": "Kant, Immanuel",
+    "subject": "Ethics",
+    "download": "https://www.gutenberg.org/ebooks/5683.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5683.html.images"
+  },
+  {
     "title": "Self Help; with Illustrations of Conduct and Perseverance",
     "author": "Smiles, Samuel",
     "subject": "Conduct of life",
@@ -7446,6 +7474,13 @@
     "subject": "English language -- Translating into German",
     "download": "https://www.gutenberg.org/ebooks/76864.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/76864.html.images"
+  },
+  {
+    "title": "Kalevala : the Epic Poem of Finland — Complete",
+    "author": "Unknown",
+    "subject": "Finnish poetry -- Translations into English",
+    "download": "https://www.gutenberg.org/ebooks/5186.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5186.html.images"
   },
   {
     "title": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 01 (of 10): Cimabue to Agnolo Gaddi",
@@ -7530,6 +7565,13 @@
     "subject": "Famines -- Ireland -- History",
     "download": "https://www.gutenberg.org/ebooks/14412.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/14412.html.images"
+  },
+  {
+    "title": "Fables of La Fontaine — a New Edition, with Notes",
+    "author": "La Fontaine, Jean de",
+    "subject": "Fables, French -- Translations into English",
+    "download": "https://www.gutenberg.org/ebooks/7241.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7241.html.images"
   },
   {
     "title": "東周列國志",
@@ -7812,13 +7854,6 @@
     "read": "https://www.gutenberg.org/ebooks/39634.html.images"
   },
   {
-    "title": "Myths and Legends of Our Own Land — Complete",
-    "author": "Skinner, Charles M. (Charles Montgomery)",
-    "subject": "Folklore -- United States",
-    "download": "https://www.gutenberg.org/ebooks/6615.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6615.html.images"
-  },
-  {
     "title": "The Practice and Science of Drawing",
     "author": "Speed, Harold",
     "subject": "Drawing",
@@ -7887,13 +7922,6 @@
     "subject": "English literature -- 19th century -- History and criticism",
     "download": "https://www.gutenberg.org/ebooks/31698.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/31698.html.images"
-  },
-  {
-    "title": "Emile",
-    "author": "Rousseau, Jean-Jacques",
-    "subject": "Education -- Early works to 1800",
-    "download": "https://www.gutenberg.org/ebooks/5427.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5427.html.images"
   },
   {
     "title": "Troilus and Criseyde",
@@ -8176,13 +8204,6 @@
     "read": "https://www.gutenberg.org/ebooks/2434.html.images"
   },
   {
-    "title": "The Mill on the Floss",
-    "author": "Eliot, George",
-    "subject": "Conflict of generations -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/6688.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6688.html.images"
-  },
-  {
     "title": "Project Daedalus",
     "author": "Hoover, Thomas",
     "subject": "Suspense fiction",
@@ -8344,6 +8365,13 @@
     "read": "https://www.gutenberg.org/ebooks/55771.html.images"
   },
   {
+    "title": "The Nibelungenlied: Translated into Rhymed English Verse in the Metre of the Original",
+    "author": "Unknown",
+    "subject": "Epic poetry, German -- Translations into English",
+    "download": "https://www.gutenberg.org/ebooks/7321.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/7321.html.images"
+  },
+  {
     "title": "Silas Marner",
     "author": "Eliot, George",
     "subject": "Adopted children -- Fiction",
@@ -8370,13 +8398,6 @@
     "subject": "West Lake (China) -- History -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/25392.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/25392.html.images"
-  },
-  {
-    "title": "Lord Jim",
-    "author": "Conrad, Joseph",
-    "subject": "Atonement -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/5658.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5658.html.images"
   },
   {
     "title": "Pan Tadeusz; or, The last foray in Lithuania: a story of life among Polish gentlefolk in the years 1811 and 1812",
@@ -8435,13 +8456,6 @@
     "read": "https://www.gutenberg.org/ebooks/1252.html.images"
   },
   {
-    "title": "Voyage au Centre de la Terre",
-    "author": "Verne, Jules",
-    "subject": "Adventure stories",
-    "download": "https://www.gutenberg.org/ebooks/4791.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4791.html.images"
-  },
-  {
     "title": "The Master Key: An Electrical Fairy Tale Founded Upon the Mysteries of Electricity",
     "author": "Baum, L. Frank (Lyman Frank)",
     "subject": "Adventure stories",
@@ -8475,6 +8489,13 @@
     "subject": "De Amicis, Edmondo, 1846-1908",
     "download": "https://www.gutenberg.org/ebooks/61885.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/61885.html.images"
+  },
+  {
+    "title": "A Shropshire Lad",
+    "author": "Housman, A. E. (Alfred Edward)",
+    "subject": "Shropshire (England) -- Poetry",
+    "download": "https://www.gutenberg.org/ebooks/5720.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5720.html.images"
   },
   {
     "title": "Encyclopaedia Britannica, 11th Edition, \"Carnegie Andrew\" to \"Casus Belli\": Volume 5, Slice 4",
@@ -8603,6 +8624,13 @@
     "read": "https://www.gutenberg.org/ebooks/12410.html.images"
   },
   {
+    "title": "The Institutes of Justinian",
+    "author": "Unknown",
+    "subject": "Roman law",
+    "download": "https://www.gutenberg.org/ebooks/5983.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5983.html.images"
+  },
+  {
     "title": "Scouting for Boys",
     "author": "Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron",
     "subject": "Boy Scouts",
@@ -8645,13 +8673,6 @@
     "read": "https://www.gutenberg.org/files/21519/21519-index.html"
   },
   {
-    "title": "The Institutes of Justinian",
-    "author": "Unknown",
-    "subject": "Roman law",
-    "download": "https://www.gutenberg.org/ebooks/5983.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5983.html.images"
-  },
-  {
     "title": "Poems: Household Edition",
     "author": "Emerson, Ralph Waldo",
     "subject": "Poetry",
@@ -8678,6 +8699,13 @@
     "subject": "Political ethics -- Early works to 1800",
     "download": "https://www.gutenberg.org/ebooks/57037.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/57037.html.images"
+  },
+  {
+    "title": "The Complete Poetical Works of Percy Bysshe Shelley — Complete",
+    "author": "Shelley, Percy Bysshe",
+    "subject": "English poetry",
+    "download": "https://www.gutenberg.org/ebooks/4800.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4800.html.images"
   },
   {
     "title": "A Biblia Sagrada, Contendo o Velho e o Novo Testamento",
@@ -9002,13 +9030,6 @@
     "read": "https://www.gutenberg.org/ebooks/2099.html.images"
   },
   {
-    "title": "The Letters of Wolfgang Amadeus Mozart — Volume 01",
-    "author": "Mozart, Wolfgang Amadeus",
-    "subject": "Composers -- Austria -- Correspondence",
-    "download": "https://www.gutenberg.org/ebooks/5307.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5307.html.images"
-  },
-  {
     "title": "施公案",
     "author": "Anonymous",
     "subject": "Chinese fiction -- Qing dynasty, 1644-1912",
@@ -9049,13 +9070,6 @@
     "subject": "Murder -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/78088.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/78088.html.images"
-  },
-  {
-    "title": "The History of Don Quixote, Volume 2, Complete",
-    "author": "Cervantes Saavedra, Miguel de",
-    "subject": "Knights and knighthood -- Spain -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/5946.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5946.html.images"
   },
   {
     "title": "Renaissance in Italy, Volume 1 (of 7): The Age of the Despots",
@@ -9114,6 +9128,13 @@
     "read": "https://www.gutenberg.org/ebooks/2759.html.images"
   },
   {
+    "title": "Frederick Chopin, as a Man and Musician — Complete",
+    "author": "Niecks, Frederick",
+    "subject": "Chopin, Frédéric, 1810-1849",
+    "download": "https://www.gutenberg.org/ebooks/4973.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4973.html.images"
+  },
+  {
     "title": "Astounding Stories,  August, 1931",
     "author": "Various",
     "subject": "Science fiction -- Periodicals",
@@ -9161,6 +9182,13 @@
     "subject": "Etiquette",
     "download": "https://www.gutenberg.org/ebooks/39293.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/39293.html.images"
+  },
+  {
+    "title": "Myths and Legends of Our Own Land — Complete",
+    "author": "Skinner, Charles M. (Charles Montgomery)",
+    "subject": "Folklore -- United States",
+    "download": "https://www.gutenberg.org/ebooks/6615.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6615.html.images"
   },
   {
     "title": "The eclipse of Russia",
@@ -9212,25 +9240,11 @@
     "read": "https://www.gutenberg.org/ebooks/376.html.images"
   },
   {
-    "title": "The Nibelungenlied: Translated into Rhymed English Verse in the Metre of the Original",
-    "author": "Unknown",
-    "subject": "Epic poetry, German -- Translations into English",
-    "download": "https://www.gutenberg.org/ebooks/7321.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7321.html.images"
-  },
-  {
     "title": "Medea of Euripides",
     "author": "Euripides",
     "subject": "Medea, consort of Aegeus, King of Athens (Mythological character) -- Drama",
     "download": "https://www.gutenberg.org/ebooks/35451.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/35451.html.images"
-  },
-  {
-    "title": "Household Tales by Brothers Grimm",
-    "author": "Grimm, Jacob",
-    "subject": "Fairy tales -- Germany",
-    "download": "https://www.gutenberg.org/ebooks/5314.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5314.html.images"
   },
   {
     "title": "A Plain Introduction to the Criticism of the New Testament, Vol. I.",
@@ -9245,6 +9259,20 @@
     "subject": "Lawyers -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/78127.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/78127.html.images"
+  },
+  {
+    "title": "Household Tales by Brothers Grimm",
+    "author": "Grimm, Jacob",
+    "subject": "Fairy tales -- Germany",
+    "download": "https://www.gutenberg.org/ebooks/5314.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5314.html.images"
+  },
+  {
+    "title": "Waverley; or, 'Tis sixty years since",
+    "author": "Scott, Walter",
+    "subject": "Historical fiction",
+    "download": "https://www.gutenberg.org/ebooks/5998.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5998.html.images"
   },
   {
     "title": "The Roman History of Ammianus Marcellinus: During the Reigns of the Emperors Constantius, Julian, Jovianus, Valentinian, and Valens",
@@ -9324,6 +9352,13 @@
     "read": "https://www.gutenberg.org/ebooks/42220.html.images"
   },
   {
+    "title": "The Small House at Allington",
+    "author": "Trollope, Anthony",
+    "subject": "Barsetshire (England : Imaginary place) -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/4599.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4599.html.images"
+  },
+  {
     "title": "The Country of the Blind, and Other Stories",
     "author": "Wells, H. G. (Herbert George)",
     "subject": "Science fiction, English",
@@ -9343,13 +9378,6 @@
     "subject": "Communism",
     "download": "https://www.gutenberg.org/ebooks/31193.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/31193.html.images"
-  },
-  {
-    "title": "Vingt mille Lieues Sous Les Mers — Complete",
-    "author": "Verne, Jules",
-    "subject": "Adventure stories",
-    "download": "https://www.gutenberg.org/ebooks/5097.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5097.html.images"
   },
   {
     "title": "Argentina, Legend and History",
@@ -9553,6 +9581,13 @@
     "subject": "Conan (Fictitious character) -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/42188.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/42188.html.images"
+  },
+  {
+    "title": "The History of Don Quixote, Volume 2, Complete",
+    "author": "Cervantes Saavedra, Miguel de",
+    "subject": "Knights and knighthood -- Spain -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5946.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5946.html.images"
   },
   {
     "title": "Financial Crime and Corruption",
@@ -9835,13 +9870,6 @@
     "read": "https://www.gutenberg.org/files/26470/26470_index.html"
   },
   {
-    "title": "A Shropshire Lad",
-    "author": "Housman, A. E. (Alfred Edward)",
-    "subject": "Shropshire (England) -- Poetry",
-    "download": "https://www.gutenberg.org/ebooks/5720.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5720.html.images"
-  },
-  {
     "title": "Lucifer : $b roman moderne",
     "author": "Magre, Maurice",
     "subject": "French fiction -- 20th century",
@@ -9968,6 +9996,13 @@
     "read": "https://www.gutenberg.org/ebooks/49266.html.images"
   },
   {
+    "title": "Pamela, or Virtue Rewarded",
+    "author": "Richardson, Samuel",
+    "subject": "Didactic fiction",
+    "download": "https://www.gutenberg.org/ebooks/6124.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6124.html.images"
+  },
+  {
     "title": "History of Botany (1530-1860)",
     "author": "Sachs, Julius",
     "subject": "Botany -- History",
@@ -10071,13 +10106,6 @@
     "subject": "Peter I, Emperor of Russia, 1672-1725",
     "download": null,
     "read": "https://www.gutenberg.org/files/26300/26300-index.html"
-  },
-  {
-    "title": "Pamela, or Virtue Rewarded",
-    "author": "Richardson, Samuel",
-    "subject": "Didactic fiction",
-    "download": "https://www.gutenberg.org/ebooks/6124.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6124.html.images"
   },
   {
     "title": "The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12)",
@@ -10246,13 +10274,6 @@
     "subject": "Instrumentation and orchestration",
     "download": "https://www.gutenberg.org/ebooks/33900.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/33900.html.images"
-  },
-  {
-    "title": "While the Billy Boils",
-    "author": "Lawson, Henry",
-    "subject": "Australia -- Social life and customs -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/7144.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7144.html.images"
   },
   {
     "title": "The Gutenberg Webster's Unabridged Dictionary: Section S",
@@ -10451,13 +10472,6 @@
     "read": "https://www.gutenberg.org/ebooks/41472.html.images"
   },
   {
-    "title": "The Battle of the Strong: A Romance of Two Kingdoms — Volume 6",
-    "author": "Parker, Gilbert",
-    "subject": "Anglo-French War, 1793-1802 -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/6235.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6235.html.images"
-  },
-  {
     "title": "Old Times on the Upper Mississippi: The Recollections of a Steamboat Pilot from 1854 to 1863",
     "author": "Merrick, George Byron",
     "subject": "Frontier and pioneer life -- Mississippi River Valley",
@@ -10507,18 +10521,18 @@
     "read": "https://www.gutenberg.org/ebooks/8525.html.images"
   },
   {
+    "title": "Love and Life: An Old Story in Eighteenth Century Costume",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "subject": "English fiction -- 19th century",
+    "download": "https://www.gutenberg.org/ebooks/5700.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5700.html.images"
+  },
+  {
     "title": "Chaucer's Works, Volume 2 — Boethius and Troilus",
     "author": "Chaucer, Geoffrey",
     "subject": "English poetry -- Middle English, 1100-1500",
     "download": "https://www.gutenberg.org/ebooks/44833.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/44833.html.images"
-  },
-  {
-    "title": "What Men Live By, and Other Tales",
-    "author": "Tolstoy, Leo, graf",
-    "subject": "Peasants -- Russia -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/6157.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6157.html.images"
   },
   {
     "title": "Die Liebe: Novelle",
@@ -10577,6 +10591,13 @@
     "read": "https://www.gutenberg.org/ebooks/38015.html.images"
   },
   {
+    "title": "What Men Live By, and Other Tales",
+    "author": "Tolstoy, Leo, graf",
+    "subject": "Peasants -- Russia -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/6157.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6157.html.images"
+  },
+  {
     "title": "Southern Literature From 1579-1895: A comprehensive review, with copious extracts and criticisms; for the use of schools and the general reader",
     "author": "Manly, Louise",
     "subject": "American literature -- Southern States",
@@ -10591,11 +10612,11 @@
     "read": "https://www.gutenberg.org/ebooks/77310.html.images"
   },
   {
-    "title": "The Critique of Practical Reason",
-    "author": "Kant, Immanuel",
-    "subject": "Ethics",
-    "download": "https://www.gutenberg.org/ebooks/5683.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5683.html.images"
+    "title": "King Midas: a Romance",
+    "author": "Sinclair, Upton",
+    "subject": "Fiction",
+    "download": "https://www.gutenberg.org/ebooks/4923.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4923.html.images"
   },
   {
     "title": "Sonnet 43",
@@ -10906,6 +10927,13 @@
     "read": "https://www.gutenberg.org/ebooks/2490.html.images"
   },
   {
+    "title": "The Cardinal's snuff-box",
+    "author": "Harland, Henry",
+    "subject": "British -- Italy -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5610.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5610.html.images"
+  },
+  {
     "title": "Secret societies and subversive movements",
     "author": "Webster, Nesta Helen",
     "subject": "Secret societies",
@@ -11095,6 +11123,13 @@
     "read": "https://www.gutenberg.org/ebooks/2581.html.images"
   },
   {
+    "title": "1811 Dictionary of the Vulgar Tongue",
+    "author": "Grose, Francis",
+    "subject": "English language -- Slang -- Dictionaries",
+    "download": "https://www.gutenberg.org/ebooks/5402.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5402.html.images"
+  },
+  {
     "title": "Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea",
     "author": "Malinowski, Bronislaw",
     "subject": "Barter -- Papua New Guinea -- Trobriand Islands",
@@ -11144,13 +11179,6 @@
     "read": "https://www.gutenberg.org/ebooks/769.html.images"
   },
   {
-    "title": "Considerations on Representative Government",
-    "author": "Mill, John Stuart",
-    "subject": "Representative government and representation",
-    "download": "https://www.gutenberg.org/ebooks/5669.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5669.html.images"
-  },
-  {
     "title": "The Complete Poetical Works of Edgar Allan Poe: Including Essays on Poetry",
     "author": "Poe, Edgar Allan",
     "subject": "Fantasy poetry, American",
@@ -11158,11 +11186,25 @@
     "read": "https://www.gutenberg.org/ebooks/10031.html.images"
   },
   {
+    "title": "Letters of Anton Chekhov to His Family and Friends",
+    "author": "Chekhov, Anton Pavlovich",
+    "subject": "Authors, Russian -- 19th century -- Correspondence",
+    "download": "https://www.gutenberg.org/ebooks/6408.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6408.html.images"
+  },
+  {
     "title": "Dombey and Son",
     "author": "Dickens, Charles",
     "subject": "Businesspeople -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/821.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/821.html.images"
+  },
+  {
+    "title": "The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou;: Being the Account of a Voyage to the Region North of Aylemer Lake",
+    "author": "Seton, Ernest Thompson",
+    "subject": "Alberta -- Description and travel",
+    "download": "https://www.gutenberg.org/ebooks/6818.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6818.html.images"
   },
   {
     "title": "The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.",
@@ -11184,13 +11226,6 @@
     "subject": "Great Britain -- Politics and government -- 1760-1820",
     "download": "https://www.gutenberg.org/ebooks/15679.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/15679.html.images"
-  },
-  {
-    "title": "Frederick Chopin, as a Man and Musician — Complete",
-    "author": "Niecks, Frederick",
-    "subject": "Chopin, Frédéric, 1810-1849",
-    "download": "https://www.gutenberg.org/ebooks/4973.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4973.html.images"
   },
   {
     "title": "The Ancient Regime",
@@ -11457,13 +11492,6 @@
     "subject": "Occupations",
     "download": "https://www.gutenberg.org/ebooks/62231.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/62231.html.images"
-  },
-  {
-    "title": "Venus in Furs",
-    "author": "Sacher-Masoch, Leopold, Ritter von",
-    "subject": "Erotic fiction",
-    "download": "https://www.gutenberg.org/ebooks/6852.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6852.html.images"
   },
   {
     "title": "The Price of Love",
@@ -11753,13 +11781,6 @@
     "read": "https://www.gutenberg.org/ebooks/1004.html.images"
   },
   {
-    "title": "1811 Dictionary of the Vulgar Tongue",
-    "author": "Grose, Francis",
-    "subject": "English language -- Slang -- Dictionaries",
-    "download": "https://www.gutenberg.org/ebooks/5402.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5402.html.images"
-  },
-  {
     "title": "Lady Chatterley's lover",
     "author": "Lawrence, D. H. (David Herbert)",
     "subject": "Adultery -- Fiction",
@@ -11858,6 +11879,13 @@
     "read": "https://www.gutenberg.org/ebooks/17.html.images"
   },
   {
+    "title": "The Advancement of Learning",
+    "author": "Bacon, Francis",
+    "subject": "Knowledge, Theory of -- Early works to 1800",
+    "download": "https://www.gutenberg.org/ebooks/5500.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5500.html.images"
+  },
+  {
     "title": "King Solomon's Mines",
     "author": "Haggard, H. Rider (Henry Rider)",
     "subject": "Adventure stories",
@@ -11949,20 +11977,6 @@
     "read": "https://www.gutenberg.org/ebooks/12753.html.images"
   },
   {
-    "title": "Les Fleurs du Mal",
-    "author": "Baudelaire, Charles",
-    "subject": "French poetry -- 19th century",
-    "download": "https://www.gutenberg.org/ebooks/6099.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6099.html.images"
-  },
-  {
-    "title": "Letters of Anton Chekhov to His Family and Friends",
-    "author": "Chekhov, Anton Pavlovich",
-    "subject": "Authors, Russian -- 19th century -- Correspondence",
-    "download": "https://www.gutenberg.org/ebooks/6408.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6408.html.images"
-  },
-  {
     "title": "Addie's Husband; or, Through clouds to sunshine",
     "author": "Gordon Smythies, Mrs.",
     "subject": "Dime novels",
@@ -11975,13 +11989,6 @@
     "subject": "Japan -- Description and travel",
     "download": "https://www.gutenberg.org/ebooks/43541.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/43541.html.images"
-  },
-  {
-    "title": "The Luck of Roaring Camp and Other Tales: With Condensed Novels, Spanish and American Legends, and Earlier Papers",
-    "author": "Harte, Bret",
-    "subject": "Frontier and pioneer life -- West (U.S.) -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/6373.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/6373.html.images"
   },
   {
     "title": "Ireland in Fiction: A Guide to Irish Novels, Tales, Romances, and Folk-lore",
@@ -12117,6 +12124,13 @@
     "read": "https://www.gutenberg.org/ebooks/12383.html.images"
   },
   {
+    "title": "The Lilac Sunbonnet: A Love Story",
+    "author": "Crockett, S. R. (Samuel Rutherford)",
+    "subject": "Fiction",
+    "download": "https://www.gutenberg.org/ebooks/4918.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4918.html.images"
+  },
+  {
     "title": "The Secret Doctrine, Vol. 2 of 4: The Synthesis of Science, Religion, and Philosophy",
     "author": "Blavatsky, H. P. (Helena Petrovna)",
     "subject": "Theosophy",
@@ -12164,6 +12178,13 @@
     "subject": "Comedy plays",
     "download": "https://www.gutenberg.org/ebooks/383.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/383.html.images"
+  },
+  {
+    "title": "A History of Modern Europe, 1792-1878",
+    "author": "Fyffe, Charles Alan",
+    "subject": "Europe -- History -- 1789-1900",
+    "download": "https://www.gutenberg.org/ebooks/6589.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6589.html.images"
   },
   {
     "title": "Los miserables - Tomo 2 (de 2)",
@@ -12222,6 +12243,13 @@
     "read": "https://www.gutenberg.org/files/20049/20049-index.html"
   },
   {
+    "title": "Venus in Furs",
+    "author": "Sacher-Masoch, Leopold, Ritter von",
+    "subject": "Erotic fiction",
+    "download": "https://www.gutenberg.org/ebooks/6852.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6852.html.images"
+  },
+  {
     "title": "Good Things to Eat as Suggested by Rufus",
     "author": "Estes, Rufus",
     "subject": "Cooking, American",
@@ -12278,13 +12306,6 @@
     "read": "https://www.gutenberg.org/ebooks/8106.html.images"
   },
   {
-    "title": "The Complete Poetical Works of Percy Bysshe Shelley — Complete",
-    "author": "Shelley, Percy Bysshe",
-    "subject": "English poetry",
-    "download": "https://www.gutenberg.org/ebooks/4800.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4800.html.images"
-  },
-  {
     "title": "A Student's History of England, v. 1: B.C. 55-A.D. 1509: From the Earliest Times to the Death of King Edward VII",
     "author": "Gardiner, Samuel Rawson",
     "subject": "Great Britain -- History",
@@ -12325,13 +12346,6 @@
     "subject": "Children's literature",
     "download": "https://www.gutenberg.org/ebooks/1430.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/1430.html.images"
-  },
-  {
-    "title": "The Small House at Allington",
-    "author": "Trollope, Anthony",
-    "subject": "Barsetshire (England : Imaginary place) -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/4599.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4599.html.images"
   },
   {
     "title": "\"The Kingdom of God Is Within You\": Christianity Not as a Mystic Religion but as a New Theory of Life",
@@ -12502,13 +12516,6 @@
     "read": "https://www.gutenberg.org/ebooks/29739.html.images"
   },
   {
-    "title": "The Advancement of Learning",
-    "author": "Bacon, Francis",
-    "subject": "Knowledge, Theory of -- Early works to 1800",
-    "download": "https://www.gutenberg.org/ebooks/5500.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5500.html.images"
-  },
-  {
     "title": "The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 2",
     "author": "Whymper, Frederick",
     "subject": "Adventure and adventurers",
@@ -12558,11 +12565,11 @@
     "read": "https://www.gutenberg.org/ebooks/78020.html.images"
   },
   {
-    "title": "Waverley; or, 'Tis sixty years since",
-    "author": "Scott, Walter",
-    "subject": "Historical fiction",
-    "download": "https://www.gutenberg.org/ebooks/5998.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5998.html.images"
+    "title": "The Practice of the Presence of God",
+    "author": "Lawrence, of the Resurrection, Brother",
+    "subject": "Christian life -- Catholic authors",
+    "download": "https://www.gutenberg.org/ebooks/5657.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5657.html.images"
   },
   {
     "title": "Bushido, the Soul of Japan",
@@ -12978,13 +12985,6 @@
     "read": "https://www.gutenberg.org/ebooks/1581.html.images"
   },
   {
-    "title": "King Midas: a Romance",
-    "author": "Sinclair, Upton",
-    "subject": "Fiction",
-    "download": "https://www.gutenberg.org/ebooks/4923.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/4923.html.images"
-  },
-  {
     "title": "George Meredith: A Study",
     "author": "Lynch, Hannah",
     "subject": "Meredith, George, 1828-1909 -- Criticism and interpretation",
@@ -13011,13 +13011,6 @@
     "subject": "French language -- Conversation and phrase books",
     "download": "https://www.gutenberg.org/ebooks/48130.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/48130.html.images"
-  },
-  {
-    "title": "The Cardinal's snuff-box",
-    "author": "Harland, Henry",
-    "subject": "British -- Italy -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/5610.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5610.html.images"
   },
   {
     "title": "Lady Windermere's Fan",
@@ -13102,6 +13095,13 @@
     "subject": "Literature -- Collections",
     "download": "https://www.gutenberg.org/ebooks/13220.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/13220.html.images"
+  },
+  {
+    "title": "France and England in North America, Part II: The Jesuits in North America in the Seventeenth Century",
+    "author": "Parkman, Francis",
+    "subject": "Canada -- History -- To 1763 (New France)",
+    "download": "https://www.gutenberg.org/ebooks/6933.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6933.html.images"
   },
   {
     "title": "The Life of John Marshall, Volume 4: The building of the nation, 1815-1835",
@@ -13279,6 +13279,13 @@
     "read": "https://www.gutenberg.org/ebooks/13940.html.images"
   },
   {
+    "title": "The Satyricon — Volume 06: Editor's Notes",
+    "author": "Petronius Arbiter",
+    "subject": "Rome -- Fiction",
+    "download": "https://www.gutenberg.org/ebooks/5223.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5223.html.images"
+  },
+  {
     "title": "The History of England, from the Accession of James II — Volume 2",
     "author": "Macaulay, Thomas Babington Macaulay, Baron",
     "subject": "Great Britain -- History -- James II, 1685-1688",
@@ -13454,13 +13461,6 @@
     "read": "https://www.gutenberg.org/ebooks/21415.html.images"
   },
   {
-    "title": "The Practice of the Presence of God",
-    "author": "Lawrence, of the Resurrection, Brother",
-    "subject": "Christian life -- Catholic authors",
-    "download": "https://www.gutenberg.org/ebooks/5657.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/5657.html.images"
-  },
-  {
     "title": "1001 задача для умственного счета",
     "author": "Rachinskii, Sergei Aleksandrovich",
     "subject": "Mathematics -- Problems, exercises, etc.",
@@ -13480,13 +13480,6 @@
     "subject": "Catholic Church -- Italy -- History",
     "download": "https://www.gutenberg.org/ebooks/16504.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/16504.html.images"
-  },
-  {
-    "title": "文淵閣四庫全書",
-    "author": "Various",
-    "subject": "general",
-    "download": "https://www.gutenberg.org/ebooks/7221.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7221.html.images"
   },
   {
     "title": "The Gutenberg Webster's Unabridged Dictionary: Section R",
@@ -13531,6 +13524,13 @@
     "read": "https://www.gutenberg.org/ebooks/50742.html.images"
   },
   {
+    "title": "Les Fleurs du Mal",
+    "author": "Baudelaire, Charles",
+    "subject": "French poetry -- 19th century",
+    "download": "https://www.gutenberg.org/ebooks/6099.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6099.html.images"
+  },
+  {
     "title": "Encyclopaedia Britannica, 11th Edition, \"Bisharin\" to \"Bohea\": Volume 4, Slice 1",
     "author": "Various",
     "subject": "Encyclopedias and dictionaries",
@@ -13543,6 +13543,13 @@
     "subject": "Manned space flight -- Fiction",
     "download": "https://www.gutenberg.org/ebooks/38674.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/38674.html.images"
+  },
+  {
+    "title": "Public opinion",
+    "author": "Lippmann, Walter",
+    "subject": "Public opinion",
+    "download": "https://www.gutenberg.org/ebooks/6456.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6456.html.images"
   },
   {
     "title": "The Elizabethan Stage, Vol. 1",
@@ -13727,11 +13734,25 @@
     "read": "https://www.gutenberg.org/ebooks/60558.html.images"
   },
   {
+    "title": "Aesthetical Essays of Friedrich Schiller",
+    "author": "Schiller, Friedrich",
+    "subject": "Aesthetics",
+    "download": "https://www.gutenberg.org/ebooks/6798.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/6798.html.images"
+  },
+  {
     "title": "Plague Ship",
     "author": "Norton, Andre",
     "subject": "Life on other planets -- Fiction",
     "download": null,
     "read": "https://www.gutenberg.org/files/28809/28809_index.html"
+  },
+  {
+    "title": "The Mabinogion",
+    "author": "Unknown",
+    "subject": "Mythology, Celtic -- Wales",
+    "download": "https://www.gutenberg.org/ebooks/5160.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/5160.html.images"
   },
   {
     "title": "The dangerous game",
@@ -13951,6 +13972,13 @@
     "read": "https://www.gutenberg.org/ebooks/41424.html.images"
   },
   {
+    "title": "Dialogues Concerning Natural Religion",
+    "author": "Hume, David",
+    "subject": "Natural theology -- Early works to 1800",
+    "download": "https://www.gutenberg.org/ebooks/4583.epub3.images",
+    "read": "https://www.gutenberg.org/ebooks/4583.html.images"
+  },
+  {
     "title": "Triplanetary",
     "author": "Smith, E. E. (Edward Elmer)",
     "subject": "Extraterrestrial beings -- Fiction",
@@ -14070,13 +14098,6 @@
     "read": "https://www.gutenberg.org/ebooks/19188.html.images"
   },
   {
-    "title": "管子",
-    "author": "Guan, Zhong",
-    "subject": "Chinese classics",
-    "download": "https://www.gutenberg.org/ebooks/7367.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/7367.html.images"
-  },
-  {
     "title": "The Discoverie of Witchcraft",
     "author": "Scot, Reginald",
     "subject": "Demonology -- Early works to 1800",
@@ -14089,26 +14110,5 @@
     "subject": "Science fiction",
     "download": "https://www.gutenberg.org/ebooks/24246.epub3.images",
     "read": "https://www.gutenberg.org/ebooks/24246.html.images"
-  },
-  {
-    "title": "Under the Witches' Moon: A Romantic Tale of Mediaeval Rome",
-    "author": "Gallizier, Nathan",
-    "subject": "Rome (Italy) -- History -- 476-1420 -- Fiction",
-    "download": "https://www.gutenberg.org/ebooks/44827.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/44827.html.images"
-  },
-  {
-    "title": "Præraphaelite diaries and letters",
-    "author": "Rossetti, Dante Gabriel",
-    "subject": "Brown, Ford Madox, 1821-1893",
-    "download": "https://www.gutenberg.org/ebooks/78022.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/78022.html.images"
-  },
-  {
-    "title": "History of Spanish Literature, vol. 3 (of 3)",
-    "author": "Ticknor, George",
-    "subject": "Spanish literature -- History and criticism",
-    "download": "https://www.gutenberg.org/ebooks/56490.epub3.images",
-    "read": "https://www.gutenberg.org/ebooks/56490.html.images"
   }
 ]
